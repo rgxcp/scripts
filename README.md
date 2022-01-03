@@ -1,4 +1,4 @@
-# 🕸️ Scripts
+# 🤖 Scripts
 
 A collection of Shell scripts to automate my boring-repetitive tasks.
 
